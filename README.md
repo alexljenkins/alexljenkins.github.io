@@ -6,4 +6,4 @@ Taking a basic bootstrap template to build a static one-page website to display 
 
 ## Head to website
 
-[![Agency Preview](img\website-homepage.png)](https://alexljenkins.github.io/)
+[![Agency Preview](img/website-homepage.png)](https://alexljenkins.github.io/)
